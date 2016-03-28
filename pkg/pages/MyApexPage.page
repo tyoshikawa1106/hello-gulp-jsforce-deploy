@@ -1,0 +1,7 @@
+<apex:page controller="MyApexController" sidebar="false">
+    <div class="slds">
+        <apex:form id="form">
+            <p>Hello World!!</p>
+        </apex:form>
+    </div>
+</apex:page>
