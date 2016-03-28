@@ -1,6 +1,9 @@
 # hello-gulp-jsforce-deploy
 gulp-jsforce-deployの動作確認用ファイルです。
 
+## jsforce/gulp-jsforce-deploy  
+https://github.com/jsforce/gulp-jsforce-deploy
+
 ## Setup
 ```
 $ cd desktop
@@ -24,6 +27,3 @@ $ foreman run gulp deploy
 ```
 $ gem install foreman
 ```
-
-## jsforce/gulp-jsforce-deploy  
-https://github.com/jsforce/gulp-jsforce-deploy
